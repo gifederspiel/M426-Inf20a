@@ -19,6 +19,7 @@ namespace Geometry
             Console.WriteLine("Area:\t\t" + Calculator.GetArea(rectSquare));
             Console.WriteLine("Perimeter:\t" + Calculator.GetPerimeter(rectSquare));
             Console.WriteLine("Diagonal:\t" + Calculator.GetDiagonal(rectSquare));
+            Console.WriteLine("WidthHeightRatio:\t" + Calculator.GetWidthHeightRatio(rectSquare));
         }
     }
 }

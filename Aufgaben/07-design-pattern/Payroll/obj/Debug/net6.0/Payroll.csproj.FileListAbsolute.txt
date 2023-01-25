@@ -1,0 +1,5 @@
+C:\Users\vmadmin\Documents\M426-Inf20a\aufgaben\07-design-pattern\payroll\obj\Debug\net6.0\Payroll.csproj.AssemblyReference.cache
+C:\Users\vmadmin\Documents\M426-Inf20a\aufgaben\07-design-pattern\payroll\obj\Debug\net6.0\Payroll.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vmadmin\Documents\M426-Inf20a\aufgaben\07-design-pattern\payroll\obj\Debug\net6.0\Payroll.AssemblyInfoInputs.cache
+C:\Users\vmadmin\Documents\M426-Inf20a\aufgaben\07-design-pattern\payroll\obj\Debug\net6.0\Payroll.AssemblyInfo.cs
+C:\Users\vmadmin\Documents\M426-Inf20a\aufgaben\07-design-pattern\payroll\obj\Debug\net6.0\Payroll.csproj.CoreCompileInputs.cache
